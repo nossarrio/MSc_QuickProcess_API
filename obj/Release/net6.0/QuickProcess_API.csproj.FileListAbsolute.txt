@@ -1,0 +1,15 @@
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\bin\Release\net6.0\QuickProcess_API.deps.json
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\bin\Release\net6.0\QuickProcess_API.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\bin\Release\net6.0\QuickProcess_API.pdb
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\bin\Release\net6.0\QuickProcess_Core.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\bin\Release\net6.0\QuickProcess_Core.pdb
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.csproj.AssemblyReference.cache
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.AssemblyInfoInputs.cache
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.AssemblyInfo.cs
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.csproj.CoreCompileInputs.cache
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.csproj.CopyComplete
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\refint\QuickProcess_API.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\QuickProcess_API.pdb
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_API\obj\Release\net6.0\ref\QuickProcess_API.dll
